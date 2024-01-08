@@ -1,11 +1,11 @@
 main:
 
-  - title: Adding 3D Geometry Control to Diffusion Models
-    authors: Wufei Ma*, Qihao Liu*, Jiahao Wang*, Xiaoding Yuan, Angtian Wang, Yi Zhang, Zihao Xiao, Guofeng Zhang, Beijia Lu, Ruxiao Duan, Yongrui Qi, Adam Kortylewski, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Alan Yuille <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
-    conference_short: Preprint
-    conference: Under review.
+  - title: Combination of Deep Speaker Embeddings for Diarisation
+    authors: <strong>Guangzhi Sun</strong>, Chao Zhang, Philip C. Woodland
+    conference_short: 
+    conference: Neural Networks 141 (2021)
     pdf: https://arxiv.org/pdf/2306.08103.pdf
-    bibtex: https://bib.yliu.me/arXiv23_1.txt
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:3reZGk0ZisIJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jYr1cQ:AFWwaeYAAAAAZZwtzcSuO6xL8IPVxAAMmc3fBQE&scisig=AFWwaeYAAAAAZZwtzRcVNFyjwJWUOpJYWubhyG4&scisf=4&ct=citation&cd=-1&hl=en
     image: https://img.yliu.me/teaser/dst.png
 
   - title: Prompt-Based Exemplar Super-Compression and Regeneration for Class-Incremental Learning
