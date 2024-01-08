@@ -53,17 +53,20 @@
 
 {% endfor %}
 
-<h3 style="margin:0 10px 0;">Conference Papers</h3>
+<!-- <h3 style="margin:0 10px 0;">Conference Papers</h3> -->
+<h3 style="margin:10px 10px 10px;">Conference Papers</h3>
 
 {% for link in site.data.publications.main2 %}
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;"> -->
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 25px;">
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
             <abbr class="badge">{{ link.conference_short }}</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <!-- <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;"> -->
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 30px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>

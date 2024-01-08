@@ -52,7 +52,7 @@ main2:
   - title: Can Contextual Biasing Remain Effective with Whisper and GPT-2?
     authors: <strong>Guangzhi Sun</strong>, Xianrui Zheng, Chao Zhang, Philip C. Woodland
     conference_short: IINTERSPEECH
-    conference: <strong>(INTERSPEECH</strong>, 2023.
+    conference: <strong>(INTERSPEECH)</strong>, 2023.
     pdf: https://www.isca-speech.org/archive/pdfs/interspeech_2023/sun23e_interspeech.pdf
     code: https://github.com/BriansIDP/WhisperBiasing
     page: 
@@ -62,13 +62,13 @@ main2:
   - title: Tree-constrained Pointer Generator with Graph Neural Network Encodings for Contextual Speech Recognition
     authors: <strong>Guangzhi Sun</strong>, Chao Zhang, Philip C. Woodland
     conference_short: IINTERSPEECH
-    conference: <strong>(INTERSPEECH</strong>, 2022.
+    conference: <strong>(INTERSPEECH)</strong>, 2022.
     pdf: https://www.isca-speech.org/archive/pdfs/interspeech_2022/sun22_interspeech.pdf
     code: 
     page: 
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:hi9LbZecIX4J:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jYzIDk:AFWwaeYAAAAAZZw1ODke4L-1Y384-qqFzdd2MHk&scisig=AFWwaeYAAAAAZZw1OPDOSPpgM0hnN59BOjChszI&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/teaser/interspeech2022.png
-    note: Best student paper award
+    notes: Best student paper award
 
   - title: Cross-utterance Conditioned VAE for Non-autoregressive Text-to-speech
     authors: Yang Li, Cheng Yu, <strong>Guangzhi Sun</strong>, Hua Jiang, Fanglei Sun, Weiqin Zu, Ying Wen, Yang Yang, Jun Wang
