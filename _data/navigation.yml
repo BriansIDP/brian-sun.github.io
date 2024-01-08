@@ -4,8 +4,8 @@ main:
     url: ./#contact 
     right: true 
 
-  #- title: "Services"
-  #  url: ./#services
+  - title: "CV"
+   url: "https://kclpure.kcl.ac.uk/ws/portalfiles/portal/235710715/sec24summer-final261.pdf"
 
   #- title: "Talks"
   #  url: ./#invited-talks
