@@ -6,7 +6,7 @@ main_1:
     pdf: https://arxiv.org/pdf/2305.18824.pdf
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:HRPEEUZ2U7MJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jYpcYs:AFWwaeYAAAAAZZwvaYv5ex3ZkzbV-IioWNklZuY&scisig=AFWwaeYAAAAAZZwvaYZR0nct2XEHNrbHjL_D-08&scisf=4&ct=citation&cd=-1&hl=en
     code: 
-    image: https://img.yliu.me/arxiv_CAD.png
+    image: ./assets/teaser/journal1.png
 
 
   - title: Minimising Biasing Word Errors for Contextual ASR with the Tree-constrained Pointer Generator
@@ -16,19 +16,19 @@ main_1:
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9961919
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:SB4EOkl0AaIJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jYonqc:AFWwaeYAAAAAZZwuhqfRVaK3CYt3HpzU3_N-K1I&scisig=AFWwaeYAAAAAZZwuhiTkQf8K25OmnH2cm1jghhs&scisf=4&ct=citation&cd=-1&hl=en
     code: 
-    image: https://img.yliu.me/arxiv_23_2.png
+    image: ./assets/teaser/journal2.png
 
   - title: Combination of Deep Speaker Embeddings for Diarisation
     authors: <strong>Guangzhi Sun</strong>, Chao Zhang, Philip C. Woodland
     conference_short: Neural Networks
     conference: Neural Networks 141 (2021)
-    pdf: https://arxiv.org/pdf/2306.08103.pdf
+    pdf: https://arxiv.org/pdf/2010.12025.pdf
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:3reZGk0ZisIJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jYr1cQ:AFWwaeYAAAAAZZwtzcSuO6xL8IPVxAAMmc3fBQE&scisig=AFWwaeYAAAAAZZwtzRcVNFyjwJWUOpJYWubhyG4&scisf=4&ct=citation&cd=-1&hl=en
-    image: https://img.yliu.me/teaser/dst.png
+    image: ./assets/teaser/journal3.png
 
 
   # conference papers
-
+main2:
 
   - title: "Fine-grained Audio-Visual Joint Representations for Multimodal Large Language Models"
     authors: <strong>Guangzhi Sun</strong>, Wenyi Yu, Changli Tang, Xianzhao Chen, Tian Tan, Wei Li, Lu Lu, Zejun Ma, Chao Zhang
@@ -37,7 +37,7 @@ main_1:
     pdf: https://arxiv.org/pdf/2310.05863.pdf
     code: 
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:znthCvkap7oJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jY3AKk:AFWwaeYAAAAAZZwxGKnjwbaY0xiOJOlTIHrekvs&scisig=AFWwaeYAAAAAZZwxGJtLbv4Q9J1StIj20bifUGg&scisf=4&ct=citation&cd=-1&hl=en
-    image: 
+    image: ./assets/teaser/favor.png
 
   - title: "SALMONN: Towards Generic Hearing Abilities for Large Language Models"
     authors: Changli Tang, Wenyi Yu, <strong>Guangzhi Sun</strong>, Xianzhao Chen, Tian Tan, Wei Li, Lu Lu, Zejun Ma, Chao Zhang
@@ -47,7 +47,7 @@ main_1:
     code: 
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:HXpkLEIdipMJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jY1VY4:AFWwaeYAAAAAZZwzTY7pekIV5k52pnZbCYzsCnU&scisig=AFWwaeYAAAAAZZwzTbrA0qoSWK1T5NvDjxtXIrY&scisf=4&ct=citation&cd=-1&hl=en
     image: https://img.yliu.me/teaser/miccai2023.png
-    notes: 
+    notes: ./assets/teaser/salmonn.png
 
   - title: Can Contextual Biasing Remain Effective with Whisper and GPT-2?
     authors: <strong>Guangzhi Sun</strong>, Xianrui Zheng, Chao Zhang, Philip C. Woodland
@@ -57,7 +57,7 @@ main_1:
     code: https://github.com/BriansIDP/WhisperBiasing
     page: 
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:nAthYjuFmCEJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jYyQjY:AFWwaeYAAAAAZZw0WjZbzZETHVT3UgfFuai6-A4&scisig=AFWwaeYAAAAAZZw0WpdLTrLCozSCGOe2l06T7IE&scisf=4&ct=citation&cd=-1&hl=en
-    image: https://img.yliu.me/teaser/cvpr23_1.png
+    image: ./assets/teaser/interspeechGPT223.png
 
   - title: Tree-constrained Pointer Generator with Graph Neural Network Encodings for Contextual Speech Recognition
     authors: <strong>Guangzhi Sun</strong>, Chao Zhang, Philip C. Woodland
@@ -170,13 +170,13 @@ main_1:
 #     page: https://lyy.mpi-inf.mpg.de/lst/
 #     bibtex: https://dblp.uni-trier.de/rec/conf/nips/LiSLZZCS19.html?view=bibtex
 #     image: https://img.yliu.me/teaser/LST.png
-main2:
-  - title: Generating Face Images with Attributes for Free
-    authors: <strong>Yaoyao Liu</strong>, Qianru Sun, Xiangnan He, An-An Liu, Yuting Su, Tat-Seng Chua
-    conference_short: TNNLS
-    conference: IEEE Transactions on Neural Networks and Learning Systems <strong>(TNNLS)</strong>, Volume 32, Number 6, 2021.
-    pdf: https://ieeexplore.ieee.org/abstract/document/9146375
-    bibtex: https://dblp.uni-trier.de/rec/journals/tnn/LiuSHLSC21.html?view=bibtex
-    image: https://img.yliu.me/teaser/tnnls.png
+# main2:
+#   - title: Generating Face Images with Attributes for Free
+#     authors: <strong>Yaoyao Liu</strong>, Qianru Sun, Xiangnan He, An-An Liu, Yuting Su, Tat-Seng Chua
+#     conference_short: TNNLS
+#     conference: IEEE Transactions on Neural Networks and Learning Systems <strong>(TNNLS)</strong>, Volume 32, Number 6, 2021.
+#     pdf: https://ieeexplore.ieee.org/abstract/document/9146375
+#     bibtex: https://dblp.uni-trier.de/rec/journals/tnn/LiuSHLSC21.html?view=bibtex
+#     image: https://img.yliu.me/teaser/tnnls.png
 
 
