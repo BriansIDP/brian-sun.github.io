@@ -53,6 +53,8 @@
 
 {% endfor %}
 
+<h4 style="margin:0 10px 0;">Conference Papers</h4>
+
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
