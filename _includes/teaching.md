@@ -21,23 +21,27 @@
 <h4 style="margin:0 10px 0;">Undergraduate Supervisor.</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>First Year Paper 3: Electrical and Electronic Engineering.</li>
+  <li>First Year Paper 3: <a href="http://teaching.eng.cam.ac.uk/content/part-ia-syllabuses-links-online-resources">Electrical and Electronic Engineering</a>.</li>
     <ul style="margin:0 0 0px;">
       <li>2019.10-2020.06: 12 students.</li>
       <li>2020.10-2021.06: 24 students.</li>
     </ul>
-  <li>First Year Paper 4: Mathematics and Computing.</li>
+  <li>First Year Paper 4: <a href="http://teaching.eng.cam.ac.uk/content/part-ia-syllabuses-links-online-resources">Mathematics and Computing</a>.</li>
     <ul style="margin:0 0 0px;">
       <li>2021.10-2022.06: 28 students.</li>
       <li>2022.06-2023.06: 24 students.</li>
       <li>2023.06-2024.06: 21 students.</li>
     </ul>
-  <li>Third Year 3G4: Medical Imaging & 3D Computer Graphics.</li>
+  <li>Third Year 3G4: <a href="http://teaching.eng.cam.ac.uk/content/part-ia-syllabuses-links-online-resources">Medical Imaging & 3D Computer Graphics</a>.</li>
     <ul style="margin:0 0 0px;">
       <li>2020.01-2020.04: 8 students.</li>
     </ul>
   </ul>
   
+
+
+
+
 <!-- 
 <ul>
   <li>

@@ -4,7 +4,7 @@ main_1:
     conference_short: Preprint
     conference: Under review.
     pdf: https://arxiv.org/pdf/2305.18824.pdf
-    bibtex: ./assets/bibs/journal1.txts
+    bibtex: ./assets/bibs/journal1.txt
     code: 
     image: ./assets/teaser/journal1.png
 
@@ -23,7 +23,7 @@ main_1:
     conference_short: Neural Networks
     conference: Neural Networks 141 (2021)
     pdf: https://arxiv.org/pdf/2010.12025.pdf
-    bibtex: ./assets/bibs/journal3.txts
+    bibtex: ./assets/bibs/journal3.txt
     image: ./assets/teaser/journal3.png
 
 
