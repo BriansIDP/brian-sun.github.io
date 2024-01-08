@@ -4,25 +4,40 @@
 
 <h4 style="margin:0 10px 0;">MPhil Project Co-supervisor.</h4>
 
-
 <ul style="margin:0 0 5px;">
-  <li>2023.05-2023.08: Conditional diffusion model for speaker separation</li>
-  <ul style="margin:0 0 10px;">
-    <li><a href="https://engineering.purdue.edu/ChanGroup/comp_imaging_seminar.html"><autocolor>Computational Imaging Seminar, Purdue University, August 2023.</autocolor></a></li>
-    <li><a href="https://sites.google.com/view/visionseminar"><autocolor>Vision and Graphics Seminar, Massachusetts Institute of Technology, April 2023.</autocolor></a></li>
-  </ul>
-  <li><a href="https://calendars.illinois.edu/detail/2568?eventId=33456212"><autocolor>External Speaker Series, University of Illinois Urbana-Champaign, April 2023.</autocolor></a></li>
-  <li><a href="https://vigr.cs.columbia.edu/vigr_seminar.html"><autocolor>VIGR Seminar, Columbia University, March 2023.</autocolor></a></li>
-  <li><a href="https://ccvl.jhu.edu/"><autocolor>Computational Cognition, Vision, and Learning Lab, Johns Hopkins University, January 2023.</autocolor></a></li>
-  <li><a href="https://www.robots.ox.ac.uk/~vgg/"><autocolor>Visual Geometry Group (VGG), University of Oxford, November 2022.</autocolor></a></li>
-  <li><a href="https://fvl.fudan.edu.cn/"><autocolor>Fudan Vision and Learning Laboratory, Fudan University, September 2022.</autocolor></a></li>
-  <li><a href="https://www.nextcenter.org/"><autocolor>NExT++ Research Center, National University of Singapore, April 2022.</autocolor></a></li>
-  <li>Singapore Management University, September 2020.</li>
+  <li>2023.05-2023.08: Conditional diffusion model for speaker separation.</li>
 </ul>
 
 
+<h4 style="margin:0 10px 0;">Master of Engineering Project Helper.</h4>
+
+<ul style="margin:0 0 5px;">
+  <li>2020.10-2021.06: Speaker diarisation for overlapped speech; Audio-visual speaker diarisation.</li>
+  <li>2021.10-2022.06: Spectral clustering-aware speaker diarisation.</li>
+  <li>2022.06-2023.06: Language model discounting for end-to-end speech recognition systems.</li>
+</ul>
 
 
+<h4 style="margin:0 10px 0;">Undergraduate Supervisor.</h4>
+
+<ul style="margin:0 0 5px;">
+  <li>First Year Paper 3: Electrical and Electronic Engineering.</li>
+    <ul style="margin:0 0 10px;">
+      <li>2019.10-2020.06: 12 students.</li>
+      <li>2020.10-2021.06: 24 students.</li>
+    </ul>
+  <li>First Year Paper 4: Mathematics and Computing.</li>
+    <ul style="margin:0 0 10px;">
+      <li>2021.10-2022.06: 28 students.</li>
+      <li>2022.06-2023.06: 24 students.</li>
+      <li>2023.06-2024.06: 21 students.</li>
+    </ul>
+  <li>Third Year 3G4: Medical Imaging & 3D Computer Graphics.</li>
+    <ul style="margin:0 0 10px;">
+      <li>2020.01-2020.04: 8 students.</li>
+    </ul>
+  
+<!-- 
 <ul>
   <li>
     Undergraduate Supervisor, <a href="https://cms.sic.saarland/hlcvss22/">High-Level Computer Vision</a> at <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/teaching/courses-1">Max Planck Institutes</a>, 2022
@@ -38,4 +53,4 @@
   <li>
     Teaching Assistant, <a href="">Digital Image Processing</a> at <a href="http://www.tju.edu.cn/english/index.htm/">Tianjin University</a>, 2017
   </li>
-</ul>
+</ul> -->
