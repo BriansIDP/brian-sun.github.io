@@ -15,7 +15,6 @@ I am a research associate starting from October 2023 at [Machine Intelligence La
 I have completed my Ph.D in June 2023. My Ph.D at University of Cambridge supervised by [Prof. Phil Woodland](http://www.eng.cam.ac.uk/profiles/pw117) (advisor [Prof. Mark Gales](http://www.eng.cam.ac.uk/profiles/mjfg100)) on contextual knowledge integration in end-to-end neural-based conversational AI systems. I held research internship at [Google Brain](https://research.google/) with [Dr Yu Zhang](https://scholar.google.com/citations?user=EilVnKwAAAAJ&hl=en) in 2019 and [ByteDance](https://www.bytedance.com/en/) with [Dr Wei Li](https://scholar.google.com/citations?user=q8ZrKVIAAAAJ&hl=zh-CN) in 2023. I was also grateful to have collaboration with [Poly AI](https://poly.ai/) Ltd working with [Dr Ivan Vulić](https://sites.google.com/site/ivanvulic/) and [Dr. Paweł Budzianowski](https://budzianowski.github.io/). I received by B.A and M.Eng degree in 2019 at [Trinity College](https://www.trin.cam.ac.uk/), [University of Cambridge](https://www.cam.ac.uk/).
 
 
-
 <!-- 
 <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I will give lectures at Engineering department, University Cambridge in the semester xxx for Mphil scheme.</strong></strong> -->
 
