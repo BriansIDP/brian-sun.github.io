@@ -11,7 +11,7 @@ main_1:
 
   - title: Minimising Biasing Word Errors for Contextual ASR with the Tree-constrained Pointer Generator
     authors: <strong>Guangzhi Sun</strong>, Chao Zhang, Philip C. Woodland
-    conference_short: Transactions
+    conference_short: TASLP
     conference: IEEE/ACM Transactions on Audio, Speech, and Language Processing
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9961919
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:SB4EOkl0AaIJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jYonqc:AFWwaeYAAAAAZZwuhqfRVaK3CYt3HpzU3_N-K1I&scisig=AFWwaeYAAAAAZZwuhiTkQf8K25OmnH2cm1jghhs&scisf=4&ct=citation&cd=-1&hl=en
@@ -46,8 +46,8 @@ main2:
     pdf: https://arxiv.org/pdf/2310.13289.pdf
     code: 
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:HXpkLEIdipMJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jY1VY4:AFWwaeYAAAAAZZwzTY7pekIV5k52pnZbCYzsCnU&scisig=AFWwaeYAAAAAZZwzTbrA0qoSWK1T5NvDjxtXIrY&scisf=4&ct=citation&cd=-1&hl=en
-    image: https://img.yliu.me/teaser/miccai2023.png
-    notes: ./assets/teaser/salmonn.png
+    image: ./assets/teaser/salmonn.png
+    notes: 
 
   - title: Can Contextual Biasing Remain Effective with Whisper and GPT-2?
     authors: <strong>Guangzhi Sun</strong>, Xianrui Zheng, Chao Zhang, Philip C. Woodland
@@ -67,7 +67,7 @@ main2:
     code: 
     page: 
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:hi9LbZecIX4J:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jYzIDk:AFWwaeYAAAAAZZw1ODke4L-1Y384-qqFzdd2MHk&scisig=AFWwaeYAAAAAZZw1OPDOSPpgM0hnN59BOjChszI&scisf=4&ct=citation&cd=-1&hl=en
-    image: https://img.yliu.me/teaser/cvpr23_1.png
+    image: ./assets/teaser/interspeech2022.png
     note: Best student paper award
 
   - title: Cross-utterance Conditioned VAE for Non-autoregressive Text-to-speech
@@ -79,18 +79,18 @@ main2:
     page: 
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:J63eGNfDPCYJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jYz_VY:AFWwaeYAAAAAZZw15VaKFltxks2r-JPZx1r6jJQ&scisig=AFWwaeYAAAAAZZw15fKZ6INrWxJmyh7F2fUJpT8&scisf=4&ct=citation&cd=-1&hl=en
     notes: 
-    image: https://img.yliu.me/teaser/OnlineHyperparameters.png
+    image: ./assets/teaser/acl2022.png
 
 
-  - title: Tree-constrained Pointer Generator with Graph Neural Network Encodings for Contextual Speech Recognition
+  - title: Tree-constrained Pointer Generator for End-to-end Contextual Speech Recognition
     authors: <strong>Guangzhi Sun</strong>, Chao Zhang, Philip C. Woodland
-    conference_short: IINTERSPEECH
-    conference: <strong>(INTERSPEECH</strong>, 2022.
-    pdf: https://www.isca-speech.org/archive/pdfs/interspeech_2022/sun22_interspeech.pdf
+    conference_short: ASRU
+    conference: IEEE Automatic Speech Recognition and Understanding Workshop <strong>((ASRU)</strong>, 2021.
+    pdf: https://arxiv.org/pdf/2109.00627.pdf
     code: 
     page: 
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:xUpz3ngEQfMJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jYw9Yw:AFWwaeYAAAAAZZw27Yzb6w7RjQorWyiGNXSc7zo&scisig=AFWwaeYAAAAAZZw27fctSSSootg_foZ_lDRrm70&scisf=4&ct=citation&cd=-1&hl=en
-    image: https://img.yliu.me/teaser/MTL_PAMI.png
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:xUpz3ngEQfMJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jZGkgg:AFWwaeYAAAAAZZxAiginMOs3SH5oR9h1pdrennk&scisig=AFWwaeYAAAAAZZxAij_Q0TQgw57p4IY6YqI5Qq0&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/teaser/asru2021.png
 
   - title: Speaker Diarisation Using 2D Self-attentive Combination of Embeddings
     authors: <strong>Guangzhi Sun</strong>, Chao Zhang, Philip C. Woodland
@@ -100,7 +100,7 @@ main2:
     code: 
     page:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ZxTO9DHWF_cJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jYxoqo:AFWwaeYAAAAAZZw3uqpbtfR7IlPn4YSb-yqWmGE&scisig=AFWwaeYAAAAAZZw3ul1syq5ELKmgwvK8nUDQvzc&scisf=4&ct=citation&cd=-1&hl=en
-    image: https://img.yliu.me/teaser/RMM.png
+    image: ./assets/teaser/iccasp2019.png
 
   - title: Fully-hierarchical Fine-grained Prosody Modeling for Interpretable Speech Synthesis
     authors: <strong>Guangzhi Sun</strong>, Yu Zhang, Ron J. Weiss, Yuan Cao, Heiga Zen, Yonghui Wu
@@ -110,7 +110,7 @@ main2:
     code: 
     page: 
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:S-blyuGfo8sJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jY-QBc:AFWwaeYAAAAAZZw4WBckk4aPEkT1w01iOM8vxbI&scisig=AFWwaeYAAAAAZZw4WG0QT5YHWfsF-rjqRzoTsWs&scisf=4&ct=citation&cd=-1&hl=en
-    image: https://img.yliu.me/teaser/RMM.png
+    image: ./assets/teaser/iccasp2020.png
     # others: '<a href="https://github.com/yaoyao-liu/class-incremental-learning/tree/main/adaptive-aggregation-networks" target="_blank" rel="noopener"><strong> <i style="color:#e74d3c; font-weight:600" id="githubstars_manets"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a><script>githubStars("yaoyao-liu/class-incremental-learning", function(stars) {var startext = document.getElementById("githubstars_manets"); startext.innerHTML=stars;});</script>'
 
   - title: Generating Diverse and Natural Text-to-speech Samples Using a Quantized Fine-grained VAE and Auto-regressive Prosody Prior
@@ -120,7 +120,7 @@ main2:
     pdf: https://arxiv.org/pdf/2002.03788.pdf
     code: 
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:heLXfcbd4mcJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jY-1Ko:AFWwaeYAAAAAZZw4zKq-6SIYKBYTeOX6oFiHIUw&scisig=AFWwaeYAAAAAZZw4zPLir_3dkZJ0SysUM2OvUso&scisf=4&ct=citation&cd=-1&hl=en
-    image: https://img.yliu.me/teaser/LTTL.png
+    image: ./assets/teaser/iccasp2020-2.png
 
 #   - title: Generating Face Images with Attributes for Free
 #     authors: <strong>Yaoyao Liu</strong>, Qianru Sun, Xiangnan He, An-An Liu, Yuting Su, Tat-Seng Chua
