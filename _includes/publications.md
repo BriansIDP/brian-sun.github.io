@@ -6,7 +6,7 @@
 <h4 style="margin:0 10px 0;">Check <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=PzPAzf8AAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/236/4543.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp> for more.</h4>
 
 
-<h3 style="margin:30px 0px 0px;">Journal Papers</h3>
+<h3 style="margin:30px 0px 0px; font-size:20px">Journal Papers</h3>
 
 
 <div class="publications">
@@ -54,7 +54,7 @@
 {% endfor %}
 
 <!-- <h3 style="margin:0 10px 0;">Conference Papers</h3> -->
-<h3 style="margin:30px 0px 0px;">Conference Papers</h3>
+<h3 style="margin:10px 0px 0px; font-size:20px">Conference Papers</h3>
 
 {% for link in site.data.publications.main2 %}
 
@@ -100,7 +100,7 @@
 {% endfor %}
 
 <!-- <h3 style="margin:0 10px 0;">Conference Papers</h3> -->
-<h3 style="margin:30px 0px 0px;">Ph.D. Thesis</h3>
+<h3 style="margin:10px 0px 0px; font-size:20px">Ph.D. Thesis</h3>
 
 {% for link in site.data.publications.main3 %}
 
@@ -146,7 +146,7 @@
 {% endfor %}
 
 <!-- <h3 style="margin:0 10px 0;">Conference Papers</h3> -->
-<h3 style="margin:30px 0px 0px; font-size:25px">M.Eng. Thesis</h3>
+<h3 style="margin:10px 0px 0px; font-size:20px">M.Eng. Thesis</h3>
 
 {% for link in site.data.publications.main4 %}
 
