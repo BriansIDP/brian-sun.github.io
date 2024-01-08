@@ -70,8 +70,10 @@ main2:
     image: ./assets/teaser/interspeech2022.png
     notes: Best student paper award
 
+
+
   - title: Cross-utterance Conditioned VAE for Non-autoregressive Text-to-speech
-    authors: Yang Li, Cheng Yu, <strong>Guangzhi Sun</strong>, Hua Jiang, Fanglei Sun, Weiqin Zu, Ying Wen, Yang Yang, Jun Wang
+    authors: Yang Li, Cheng Yu, <strong>Guangzhi Sun<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Hua Jiang, Fanglei Sun, Weiqin Zu, Ying Wen, Yang Yang, Jun Wang <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
     conference_short: ACL
     conference: 60th Annual Meeting of the Association-for-Computational-Linguistics <strong>(ACL)</strong>, 2022.
     pdf: https://aclanthology.org/2022.acl-long.30.pdf
