@@ -1,0 +1,6 @@
+@article{tang2023salmonn,
+  title={Salmonn: Towards generic hearing abilities for large language models},
+  author={Tang, Changli and Yu, Wenyi and Sun, Guangzhi and Chen, Xianzhao and Tan, Tian and Li, Wei and Lu, Lu and Ma, Zejun and Zhang, Chao},
+  journal={arXiv preprint arXiv:2310.13289},
+  year={2023}
+}

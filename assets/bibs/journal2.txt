@@ -1,0 +1,9 @@
+@article{sun2022minimising,
+  title={Minimising biasing word errors for contextual ASR with the tree-constrained pointer generator},
+  author={Sun, Guangzhi and Zhang, Chao and Woodland, Philip C},
+  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing},
+  volume={31},
+  pages={345--354},
+  year={2022},
+  publisher={IEEE}
+}

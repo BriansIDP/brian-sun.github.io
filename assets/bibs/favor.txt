@@ -1,0 +1,6 @@
+@article{sun2023fine,
+  title={Fine-grained Audio-Visual Joint Representations for Multimodal Large Language Models},
+  author={Sun, Guangzhi and Yu, Wenyi and Tang, Changli and Chen, Xianzhao and Tan, Tian and Li, Wei and Lu, Lu and Ma, Zejun and Zhang, Chao},
+  journal={arXiv preprint arXiv:2310.05863},
+  year={2023}
+}

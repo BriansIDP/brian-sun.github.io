@@ -1,0 +1,9 @@
+@article{sun2021combination,
+  title={Combination of deep speaker embeddings for diarisation},
+  author={Sun, Guangzhi and Zhang, Chao and Woodland, Philip C},
+  journal={Neural Networks},
+  volume={141},
+  pages={372--384},
+  year={2021},
+  publisher={Elsevier}
+}

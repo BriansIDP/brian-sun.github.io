@@ -4,7 +4,7 @@ main_1:
     conference_short: Preprint
     conference: Under review.
     pdf: https://arxiv.org/pdf/2305.18824.pdf
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:HRPEEUZ2U7MJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jYpcYs:AFWwaeYAAAAAZZwvaYv5ex3ZkzbV-IioWNklZuY&scisig=AFWwaeYAAAAAZZwvaYZR0nct2XEHNrbHjL_D-08&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: ./assets/bibs/journal1.txts
     code: 
     image: ./assets/teaser/journal1.png
 
@@ -14,7 +14,7 @@ main_1:
     conference_short: TASLP
     conference: IEEE/ACM Transactions on Audio, Speech, and Language Processing
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9961919
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:SB4EOkl0AaIJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jYonqc:AFWwaeYAAAAAZZwuhqfRVaK3CYt3HpzU3_N-K1I&scisig=AFWwaeYAAAAAZZwuhiTkQf8K25OmnH2cm1jghhs&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: ./assets/bibs/journal2.txts
     code: 
     image: ./assets/teaser/journal2.png
 
@@ -23,7 +23,7 @@ main_1:
     conference_short: Neural Networks
     conference: Neural Networks 141 (2021)
     pdf: https://arxiv.org/pdf/2010.12025.pdf
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:3reZGk0ZisIJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jYr1cQ:AFWwaeYAAAAAZZwtzcSuO6xL8IPVxAAMmc3fBQE&scisig=AFWwaeYAAAAAZZwtzRcVNFyjwJWUOpJYWubhyG4&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: ./assets/bibs/journal3.txts
     image: ./assets/teaser/journal3.png
 
 
@@ -36,7 +36,7 @@ main2:
     conference: Under review.
     pdf: https://arxiv.org/pdf/2310.05863.pdf
     code: 
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:znthCvkap7oJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jY3AKk:AFWwaeYAAAAAZZwxGKnjwbaY0xiOJOlTIHrekvs&scisig=AFWwaeYAAAAAZZwxGJtLbv4Q9J1StIj20bifUGg&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: ./assets/bibs/favor.txt
     image: ./assets/teaser/favor.png
 
   - title: "SALMONN: Towards Generic Hearing Abilities for Large Language Models"
@@ -45,7 +45,7 @@ main2:
     conference: Under review.
     pdf: https://arxiv.org/pdf/2310.13289.pdf
     code: 
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:HXpkLEIdipMJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jY1VY4:AFWwaeYAAAAAZZwzTY7pekIV5k52pnZbCYzsCnU&scisig=AFWwaeYAAAAAZZwzTbrA0qoSWK1T5NvDjxtXIrY&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: ./assets/bibs/salmonn.txt
     image: ./assets/teaser/salmonn.png
     notes: 
 
@@ -56,7 +56,7 @@ main2:
     pdf: https://www.isca-speech.org/archive/pdfs/interspeech_2023/sun23e_interspeech.pdf
     code: https://github.com/BriansIDP/WhisperBiasing
     page: 
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:nAthYjuFmCEJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jYyQjY:AFWwaeYAAAAAZZw0WjZbzZETHVT3UgfFuai6-A4&scisig=AFWwaeYAAAAAZZw0WpdLTrLCozSCGOe2l06T7IE&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: ./assets/bibs/interspeechGPT223.txt
     image: ./assets/teaser/interspeechGPT223.png
 
   - title: Tree-constrained Pointer Generator with Graph Neural Network Encodings for Contextual Speech Recognition

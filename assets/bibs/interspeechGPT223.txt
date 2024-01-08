@@ -1,0 +1,6 @@
+@article{sun2023can,
+  title={Can Contextual Biasing Remain Effective with Whisper and GPT-2?},
+  author={Sun, Guangzhi and Zheng, Xianrui and Zhang, Chao and Woodland, Philip C},
+  journal={arXiv preprint arXiv:2306.01942},
+  year={2023}
+}
