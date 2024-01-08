@@ -133,13 +133,13 @@ main3:
     image: ./assets/teaser/thesis.png
 
 main4:
-  - title: End-to-end Contextual Speech Recognition and Understanding
+  - title: Cross-Utterance Language Models
     authors: <strong>Guangzhi Sun</strong>
     conference_short: M.Eng.
     conference: Master of Engineering Thesis, University of Cambridge, 2018
-    pdf: https://mi.eng.cam.ac.uk/~gs534/doc/ToSubmit/gs534_main_thesis.pdf
+    pdf: https://mi.eng.cam.ac.uk/~gs534/doc/MEng_thesis.pdf
     code: 
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Rsg0sVj31B0J:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jZPp28:AFWwaeYAAAAAZZxJv29zBNpdjucxZLajtYJ1vmQ&scisig=AFWwaeYAAAAAZZxJv12cZj71AXCz6SSBd_iiL3w&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: 
     image: ./assets/teaser/masterthesis.png
 
 
