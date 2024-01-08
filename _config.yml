@@ -1,15 +1,15 @@
 # Basic Information 
-title: Yaoyao Liu
-position: Postdoctoral Fellow
-affiliation: Johns Hopkins University
-affiliation_link: https://cs.jhu.edu/
+title: Brian Sun
+position: Research Associate
+affiliation: University of Cambridge
+affiliation_link: https://www.cam.ac.uk/
 affiliation_logo: ./assets/img/university-logo-small-horizontal-white-156eae9527.svg
-email: yliu538 (at) jhu.edu
+email: gs534 (at) cam.ac.uk
 
 # Search Engine Optimization (SEO)
-keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
-canonical: https://www.cs.jhu.edu/~yyliu/
-description: Yaoyao Liu is a postdoctoral fellow at Johns Hopkins University. His research lies in meta-learning, incremental learning, and image generation.
+keywords: brian sun, guangzhi sun, briansun, sun guangzhi
+canonical: https://briansidp.github.io/brian-sun.github.io/
+description: Brian Sun is a research associate at University of Cambridge. His research lies in speech recognition and conversational AI.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: true
@@ -19,14 +19,14 @@ enable_last_update: false
 
 # Links
 link_type: icon #text/icon
-google_scholar: https://scholar.google.com/citations?user=Uf9GqRsAAAAJ
+google_scholar: https://scholar.google.com/citations?user=PzPAzf8AAAAJ&hl=en
 cv_link: https://pages.jh.edu/yliu538/files/Yaoyao_Liu_Curriculum_Vitae.pdf
-github_link: https://github.com/yaoyao-liu/
-linkedin: https://www.linkedin.com/in/liuyaoyao/
-twitter: https://twitter.com/YaoyaoLiu1/
+github_link: https://github.com/BriansIDP
+linkedin: https://www.linkedin.com/in/brian-sun-59746b12b/?originalSubdomain=uk
+twitter: 
 
 # Images 
-avatar: https://img.yliu.me/avatar.jpg
+avatar: ./assets/img/avatar.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
