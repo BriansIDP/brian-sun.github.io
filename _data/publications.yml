@@ -123,14 +123,26 @@ main2:
     image: ./assets/teaser/iccasp2020-2.png
 
 main3:
-  - title: Generating Diverse and Natural Text-to-speech Samples Using a Quantized Fine-grained VAE and Auto-regressive Prosody Prior
-    authors: <strong>Guangzhi Sun</strong>, Yu Zhang, Ron J. Weiss, Yuan Cao, Heiga Zen, Andrew Rosenberg, Bhuvana Ramabhadran, Yonghui Wu
-    conference_short: ICASSP
-    conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.03788.pdf
+  - title: End-to-end Contextual Speech Recognition and Understanding
+    authors: <strong>Guangzhi Sun</strong>
+    conference_short: Ph.D.
+    conference: Ph.D. in Engineering, University of Cambridge, 2023
+    pdf: https://mi.eng.cam.ac.uk/~gs534/doc/ToSubmit/gs534_main_thesis.pdf
     code: 
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:heLXfcbd4mcJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jY-1Ko:AFWwaeYAAAAAZZw4zKq-6SIYKBYTeOX6oFiHIUw&scisig=AFWwaeYAAAAAZZw4zPLir_3dkZJ0SysUM2OvUso&scisf=4&ct=citation&cd=-1&hl=en
-    image: ./assets/teaser/iccasp2020-2.png
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Rsg0sVj31B0J:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jZPp28:AFWwaeYAAAAAZZxJv29zBNpdjucxZLajtYJ1vmQ&scisig=AFWwaeYAAAAAZZxJv12cZj71AXCz6SSBd_iiL3w&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/teaser/thesis.png
+
+main4:
+  - title: End-to-end Contextual Speech Recognition and Understanding
+    authors: <strong>Guangzhi Sun</strong>
+    conference_short: M.Eng.
+    conference: Master of Engineering Thesis, University of Cambridge, 2018
+    pdf: https://mi.eng.cam.ac.uk/~gs534/doc/ToSubmit/gs534_main_thesis.pdf
+    code: 
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Rsg0sVj31B0J:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jZPp28:AFWwaeYAAAAAZZxJv29zBNpdjucxZLajtYJ1vmQ&scisig=AFWwaeYAAAAAZZxJv12cZj71AXCz6SSBd_iiL3w&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/teaser/masterthesis.png
+
+
 
 #   - title: Generating Face Images with Attributes for Free
 #     authors: <strong>Yaoyao Liu</strong>, Qianru Sun, Xiangnan He, An-An Liu, Yuting Su, Tat-Seng Chua
