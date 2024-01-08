@@ -11,7 +11,7 @@ I am currently a research associate in the Department of Engineering at [Univers
 
 My research lies at the intersection of **speech recognition** and **conversational AI** -- with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **machine learning**, **deep learning**, **biubiubiu**, and **biubiubiu**.
 
-<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the 2023-2024 academic job market, looking for faculty positions in CS, CSE, ECE, IEOR, etc., related to Artificial Intelligence, Computer Vision, and Machine Learning. Please feel free to contact me if you are interested. I am also happy to give talks on my research in related seminars.</strong></strong>
+<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I will give lectures at Engineering department, University Cambridge in the semester xxx for Mphil scheme.</strong></strong>
 
 {% include_relative _includes/news.md %}
 
