@@ -1,4 +1,4 @@
-main:
+main_1:
   - title: Graph Neural Networks for Contextual ASR with the Tree-Constrained Pointer Generator
     authors: <strong>Guangzhi Sun</strong>, Chao Zhang, Philip C. Woodland
     conference_short: Preprint
@@ -30,14 +30,14 @@ main:
   # conference papers
 
 
-  - title: "Wakening Past Concepts without Past Data: Class-Incremental Learning from Online Placebos"
-    authors: <strong>Yaoyao Liu</strong>, Yingying Li, Bernt Schiele, and Qianru Sun
-    conference_short: WACV
-    conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2024.
-    pdf: https://openaccess.thecvf.com/content/WACV2024/papers/Liu_Wakening_Past_Concepts_Without_Past_Data_Class-Incremental_Learning_From_Online_WACV_2024_paper.pdf
-    code: https://github.com/yaoyao-liu/online-placebos
-    bibtex: https://bib.yliu.me/WACV2024.txt
-    image: https://img.yliu.me/placebos_wacv24.png
+  - title: "Fine-grained Audio-Visual Joint Representations for Multimodal Large Language Models"
+    authors: <strong>Guangzhi Sun</strong>, Wenyi Yu, Changli Tang, Xianzhao Chen, Tian Tan, Wei Li, Lu Lu, Zejun Ma, Chao Zhang
+    conference_short: Preprint
+    conference: Under review.
+    pdf: https://arxiv.org/pdf/2310.05863.pdf
+    code: 
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:znthCvkap7oJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jY3AKk:AFWwaeYAAAAAZZwxGKnjwbaY0xiOJOlTIHrekvs&scisig=AFWwaeYAAAAAZZwxGJtLbv4Q9J1StIj20bifUGg&scisf=4&ct=citation&cd=-1&hl=en
+    image: 
 
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Zongwei Zhou<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
@@ -47,7 +47,7 @@ main:
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://dblp.uni-trier.de/rec/conf/miccai/ZhangLCYLZ23.html?view=bibtex
     image: https://img.yliu.me/teaser/miccai2023.png
-    notes: Early Accept
+    notes: 
 
   - title: Continual Detection Transformer for Incremental Object Detection
     authors: <strong>Yaoyao Liu</strong>, Bernt Schiele, Andrea Vedaldi, Christian Rupprecht
@@ -158,3 +158,23 @@ main:
     page: https://lyy.mpi-inf.mpg.de/lst/
     bibtex: https://dblp.uni-trier.de/rec/conf/nips/LiSLZZCS19.html?view=bibtex
     image: https://img.yliu.me/teaser/LST.png
+ 
+ - title: Learning to Self-Train for Semi-Supervised Few-Shot Classification
+    authors: Xinzhe Li, Qianru Sun, <strong>Yaoyao Liu</strong>, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2019.
+    pdf: https://papers.nips.cc/paper/2019/file/bf25356fd2a6e038f1a3a59c26687e80-Paper.pdf
+    code: https://github.com/xinzheli1217/learning-to-self-trai
+    page: https://lyy.mpi-inf.mpg.de/lst/
+    bibtex: https://dblp.uni-trier.de/rec/conf/nips/LiSLZZCS19.html?view=bibtex
+    image: https://img.yliu.me/teaser/LST.png
+main2:
+  - title: Generating Face Images with Attributes for Free
+    authors: <strong>Yaoyao Liu</strong>, Qianru Sun, Xiangnan He, An-An Liu, Yuting Su, Tat-Seng Chua
+    conference_short: TNNLS
+    conference: IEEE Transactions on Neural Networks and Learning Systems <strong>(TNNLS)</strong>, Volume 32, Number 6, 2021.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9146375
+    bibtex: https://dblp.uni-trier.de/rec/journals/tnn/LiuSHLSC21.html?view=bibtex
+    image: https://img.yliu.me/teaser/tnnls.png
+
+
