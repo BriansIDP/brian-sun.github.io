@@ -5,7 +5,7 @@
 
 
 <ul>
-<li><strong>[Jan. 2024]</strong><strong style="color:#e74d3c; font-weight:600">I will be lecturing MPhil course <a href="https://www.mlmi.eng.cam.ac.uk/mlmi-14-spoken-language-generation-processing-and-recognition">MLMI14 "Advanced Speech Recognition".</strong></a> .</li>
+<li><strong>[Jan. 2024]</strong>I will be lecturing MPhil course <a href="https://www.mlmi.eng.cam.ac.uk/mlmi-14-spoken-language-generation-processing-and-recognition">MLMI14 "Advanced Speech Recognition".</a> .</li>
 <!-- <li><strong>[Oct. 2023]</strong> I gave a talk on continual learning at <a href="https://bair.berkeley.edu/">BAIR, UC Berkeley</a>. </li>
 <li><strong>[Aug. 2023]</strong> I will serve as an Area Chair of <a href="https://cvpr.thecvf.com/">CVPR 2024</a>, <a href="https://iclr.cc/">ICLR 2024</a>, and <a href="https://aistats.org/aistats2024/">AISTATS 2024</a>.</li>
 <li><strong>[Aug. 2023]</strong> I will give a talk at <a href="https://engineering.purdue.edu/ChanGroup/comp_imaging_seminar.html">Purdue Computational Imaging Seminar</a>.</li>
