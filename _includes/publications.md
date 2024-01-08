@@ -6,7 +6,7 @@
 <h4 style="margin:0 10px 0;">Check <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=PzPAzf8AAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/236/4543.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp> for more.</h4>
 
 
-<h3 style="margin:0 10px 0;">Journal Papers</h3>
+<h3 style="margin:20px 10px 0;">Journal Papers</h3>
 
 
 <div class="publications">
@@ -60,13 +60,13 @@
 
 <li>
 <div class="pub-row">
-  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;"> -->
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 45px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 45px;"> -->
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
             <abbr class="badge">{{ link.conference_short }}</abbr>
   </div>
-  <!-- <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;"> -->
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 60px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <!-- <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 60px;"> -->
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
@@ -106,13 +106,13 @@
 
 <li>
 <div class="pub-row">
-  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;"> -->
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 45px;padding-left: 45px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 45px;padding-left: 45px;"> -->
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
             <abbr class="badge">{{ link.conference_short }} </abbr>
   </div>
-  <!-- <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;"> -->
-  <div class="col-sm-9" style="position: relative;padding-right: 45px;padding-left: 50px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <!-- <div class="col-sm-9" style="position: relative;padding-right: 45px;padding-left: 50px;"> -->
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
