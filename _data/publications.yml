@@ -11,8 +11,8 @@ main_1:
 
   - title: Minimising Biasing Word Errors for Contextual ASR with the Tree-constrained Pointer Generator
     authors: <strong>Guangzhi Sun</strong>, Chao Zhang, Philip C. Woodland
-    conference_short: TASLP
-    conference: IEEE/ACM Transactions on Audio, Speech, and Language Processing
+    conference_short: T-ASLP
+    conference: IEEE/ACM Transactions on Audio, Speech, and Language Processing (T-ASLP), 2022.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9961919
     bibtex: https://dblp.org/rec/journals/taslp/SunZW23.html?view=bibtex
     code: 
@@ -21,7 +21,7 @@ main_1:
   - title: Combination of Deep Speaker Embeddings for Diarisation
     authors: <strong>Guangzhi Sun</strong>, Chao Zhang, Philip C. Woodland
     conference_short: Neural Networks
-    conference: Neural Networks 141 (2021)
+    conference: Neural Networks 141, 2021.
     pdf: https://arxiv.org/pdf/2010.12025.pdf
     bibtex: ./assets/bibs/journal3.txt
     image: ./assets/teaser/journal3.png
@@ -68,7 +68,7 @@ main2:
     page: 
     bibtex: ./assets/bibs/interspeech2022.txt
     image: ./assets/teaser/interspeech2022.png
-    notes: Best student paper award
+    notes: Best Student Paper Award
 
 
   - title: Cross-utterance Conditioned VAE for Non-autoregressive Text-to-speech
@@ -131,7 +131,7 @@ main3:
     pdf: https://mi.eng.cam.ac.uk/~gs534/doc/ToSubmit/gs534_main_thesis.pdf
     code: 
     bibtex: ./assets/bibs/thesis.txt
-    image: ./assets/teaser/thesis.png
+    image: ./assets/img/thesis.png
 
 main4:
   - title: Cross-Utterance Language Models
@@ -141,7 +141,7 @@ main4:
     pdf: https://mi.eng.cam.ac.uk/~gs534/doc/MEng_thesis.pdf
     code: 
     bibtex: 
-    image: ./assets/teaser/masterthesis.png
+    image: ./assets/img/masterthesis.png
 
 
 
