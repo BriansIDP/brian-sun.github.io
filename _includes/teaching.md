@@ -36,6 +36,7 @@
     <ul style="margin:0 0 0px;">
       <li>2020.01-2020.04: 8 students.</li>
     </ul>
+  </ul>
   
 <!-- 
 <ul>
