@@ -5,7 +5,7 @@ main:
     right: true 
 
   - title: "CV"
-   url: "https://kclpure.kcl.ac.uk/ws/portalfiles/portal/235710715/sec24summer-final261.pdf"
+    url: "https://kclpure.kcl.ac.uk/ws/portalfiles/portal/235710715/sec24summer-final261.pdf"
 
   #- title: "Talks"
   #  url: ./#invited-talks
