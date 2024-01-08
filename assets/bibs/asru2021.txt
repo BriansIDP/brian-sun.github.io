@@ -1,0 +1,8 @@
+@inproceedings{sun2021tree,
+  title={Tree-constrained pointer generator for end-to-end contextual speech recognition},
+  author={Sun, Guangzhi and Zhang, Chao and Woodland, Philip C},
+  booktitle={2021 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)},
+  pages={780--787},
+  year={2021},
+  organization={IEEE}
+}

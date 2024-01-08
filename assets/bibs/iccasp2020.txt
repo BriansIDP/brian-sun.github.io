@@ -1,0 +1,8 @@
+@inproceedings{sun2020fully,
+  title={Fully-hierarchical fine-grained prosody modeling for interpretable speech synthesis},
+  author={Sun, Guangzhi and Zhang, Yu and Weiss, Ron J and Cao, Yuan and Zen, Heiga and Wu, Yonghui},
+  booktitle={ICASSP 2020-2020 IEEE international conference on acoustics, speech and signal processing (ICASSP)},
+  pages={6264--6268},
+  year={2020},
+  organization={IEEE}
+}

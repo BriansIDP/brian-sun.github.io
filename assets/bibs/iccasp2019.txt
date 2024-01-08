@@ -1,0 +1,8 @@
+@inproceedings{sun2019speaker,
+  title={Speaker diarisation using 2D self-attentive combination of embeddings},
+  author={Sun, Guangzhi and Zhang, Chao and Woodland, Philip C},
+  booktitle={ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={5801--5805},
+  year={2019},
+  organization={IEEE}
+}

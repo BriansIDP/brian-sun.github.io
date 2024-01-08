@@ -1,0 +1,7 @@
+
+@article{sun2022tree,
+  title={Tree-constrained pointer generator with graph neural network encodings for contextual speech recognition},
+  author={Sun, Guangzhi and Zhang, Chao and Woodland, Philip C},
+  journal={arXiv preprint arXiv:2207.00857},
+  year={2022}
+}

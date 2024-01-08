@@ -66,10 +66,9 @@ main2:
     pdf: https://www.isca-speech.org/archive/pdfs/interspeech_2022/sun22_interspeech.pdf
     code: 
     page: 
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:hi9LbZecIX4J:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jYzIDk:AFWwaeYAAAAAZZw1ODke4L-1Y384-qqFzdd2MHk&scisig=AFWwaeYAAAAAZZw1OPDOSPpgM0hnN59BOjChszI&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: ./assets/bibs/interspeech2022.txt
     image: ./assets/teaser/interspeech2022.png
     notes: Best student paper award
-
 
 
   - title: Cross-utterance Conditioned VAE for Non-autoregressive Text-to-speech
@@ -79,7 +78,7 @@ main2:
     pdf: https://aclanthology.org/2022.acl-long.30.pdf
     code: 
     page: 
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:J63eGNfDPCYJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jYz_VY:AFWwaeYAAAAAZZw15VaKFltxks2r-JPZx1r6jJQ&scisig=AFWwaeYAAAAAZZw15fKZ6INrWxJmyh7F2fUJpT8&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: ./assets/bibs/acl2022.txt
     notes: 
     image: ./assets/teaser/acl2022.png
 
@@ -91,7 +90,7 @@ main2:
     pdf: https://arxiv.org/pdf/2109.00627.pdf
     code: 
     page: 
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:xUpz3ngEQfMJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jZGkgg:AFWwaeYAAAAAZZxAiginMOs3SH5oR9h1pdrennk&scisig=AFWwaeYAAAAAZZxAij_Q0TQgw57p4IY6YqI5Qq0&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: ./assets/bibs/asru2021.txt
     image: ./assets/teaser/asru2021.png
 
   - title: Speaker Diarisation Using 2D Self-attentive Combination of Embeddings
@@ -101,7 +100,7 @@ main2:
     pdf: https://arxiv.org/pdf/1902.03190.pdf
     code: 
     page:
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ZxTO9DHWF_cJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jYxoqo:AFWwaeYAAAAAZZw3uqpbtfR7IlPn4YSb-yqWmGE&scisig=AFWwaeYAAAAAZZw3ul1syq5ELKmgwvK8nUDQvzc&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: ./assets/bibs/iccasp2019.txt
     image: ./assets/teaser/iccasp2019.png
 
   - title: Fully-hierarchical Fine-grained Prosody Modeling for Interpretable Speech Synthesis
@@ -111,7 +110,7 @@ main2:
     pdf: https://arxiv.org/pdf/2002.03785.pdf
     code: 
     page: 
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:S-blyuGfo8sJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jY-QBc:AFWwaeYAAAAAZZw4WBckk4aPEkT1w01iOM8vxbI&scisig=AFWwaeYAAAAAZZw4WG0QT5YHWfsF-rjqRzoTsWs&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: ./assets/bibs/iccasp2020.txt
     image: ./assets/teaser/iccasp2020.png
     # others: '<a href="https://github.com/yaoyao-liu/class-incremental-learning/tree/main/adaptive-aggregation-networks" target="_blank" rel="noopener"><strong> <i style="color:#e74d3c; font-weight:600" id="githubstars_manets"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a><script>githubStars("yaoyao-liu/class-incremental-learning", function(stars) {var startext = document.getElementById("githubstars_manets"); startext.innerHTML=stars;});</script>'
 
@@ -121,7 +120,7 @@ main2:
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2020.
     pdf: https://arxiv.org/pdf/2002.03788.pdf
     code: 
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:heLXfcbd4mcJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jY-1Ko:AFWwaeYAAAAAZZw4zKq-6SIYKBYTeOX6oFiHIUw&scisig=AFWwaeYAAAAAZZw4zPLir_3dkZJ0SysUM2OvUso&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: ./assets/bibs/iccasp2020-2.txt
     image: ./assets/teaser/iccasp2020-2.png
 
 main3:
@@ -131,7 +130,7 @@ main3:
     conference: Ph.D. in Engineering, University of Cambridge, 2023
     pdf: https://mi.eng.cam.ac.uk/~gs534/doc/ToSubmit/gs534_main_thesis.pdf
     code: 
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Rsg0sVj31B0J:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jZPp28:AFWwaeYAAAAAZZxJv29zBNpdjucxZLajtYJ1vmQ&scisig=AFWwaeYAAAAAZZxJv12cZj71AXCz6SSBd_iiL3w&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: ./assets/bibs/thesis.txt
     image: ./assets/teaser/thesis.png
 
 main4:

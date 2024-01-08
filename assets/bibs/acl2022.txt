@@ -1,0 +1,6 @@
+@article{li2022cross,
+  title={Cross-utterance conditioned vae for non-autoregressive text-to-speech},
+  author={Li, Yang and Yu, Cheng and Sun, Guangzhi and Jiang, Hua and Sun, Fanglei and Zu, Weiqin and Wen, Ying and Yang, Yang and Wang, Jun},
+  journal={arXiv preprint arXiv:2205.04120},
+  year={2022}
+}

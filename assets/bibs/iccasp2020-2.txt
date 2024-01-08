@@ -1,0 +1,8 @@
+@inproceedings{sun2020generating,
+  title={Generating diverse and natural text-to-speech samples using a quantized fine-grained VAE and autoregressive prosody prior},
+  author={Sun, Guangzhi and Zhang, Yu and Weiss, Ron J and Cao, Yuan and Zen, Heiga and Rosenberg, Andrew and Ramabhadran, Bhuvana and Wu, Yonghui},
+  booktitle={ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={6699--6703},
+  year={2020},
+  organization={IEEE}
+}
