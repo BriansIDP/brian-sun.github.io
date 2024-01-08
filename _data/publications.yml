@@ -14,7 +14,7 @@ main_1:
     conference_short: TASLP
     conference: IEEE/ACM Transactions on Audio, Speech, and Language Processing
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9961919
-    bibtex: ./assets/bibs/journal2.txts
+    bibtex: https://dblp.org/rec/journals/taslp/SunZW23.html?view=bibtex
     code: 
     image: ./assets/teaser/journal2.png
 
