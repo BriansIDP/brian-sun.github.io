@@ -1,30 +1,34 @@
 main:
+  - title: Graph Neural Networks for Contextual ASR with the Tree-Constrained Pointer Generator
+    authors: <strong>Guangzhi Sun</strong>, Chao Zhang, Philip C. Woodland
+    conference_short: Preprint
+    conference: Under review.
+    pdf: https://arxiv.org/pdf/2305.18824.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:HRPEEUZ2U7MJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jYpcYs:AFWwaeYAAAAAZZwvaYv5ex3ZkzbV-IioWNklZuY&scisig=AFWwaeYAAAAAZZwvaYZR0nct2XEHNrbHjL_D-08&scisf=4&ct=citation&cd=-1&hl=en
+    code: 
+    image: https://img.yliu.me/arxiv_CAD.png
+
+
+  - title: Minimising Biasing Word Errors for Contextual ASR with the Tree-constrained Pointer Generator
+    authors: <strong>Guangzhi Sun</strong>, Chao Zhang, Philip C. Woodland
+    conference_short: Transactions
+    conference: IEEE/ACM Transactions on Audio, Speech, and Language Processing
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9961919
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:SB4EOkl0AaIJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jYonqc:AFWwaeYAAAAAZZwuhqfRVaK3CYt3HpzU3_N-K1I&scisig=AFWwaeYAAAAAZZwuhiTkQf8K25OmnH2cm1jghhs&scisf=4&ct=citation&cd=-1&hl=en
+    code: 
+    image: https://img.yliu.me/arxiv_23_2.png
 
   - title: Combination of Deep Speaker Embeddings for Diarisation
     authors: <strong>Guangzhi Sun</strong>, Chao Zhang, Philip C. Woodland
-    conference_short: 
+    conference_short: Neural Networks
     conference: Neural Networks 141 (2021)
     pdf: https://arxiv.org/pdf/2306.08103.pdf
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:3reZGk0ZisIJ:scholar.google.com/&output=citation&scisdr=ClHgbCV7EOq99jYr1cQ:AFWwaeYAAAAAZZwtzcSuO6xL8IPVxAAMmc3fBQE&scisig=AFWwaeYAAAAAZZwtzRcVNFyjwJWUOpJYWubhyG4&scisf=4&ct=citation&cd=-1&hl=en
     image: https://img.yliu.me/teaser/dst.png
 
-  - title: Prompt-Based Exemplar Super-Compression and Regeneration for Class-Incremental Learning
-    authors: Ruxiao Duan, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Jieneng Chen, Adam Kortylewski, Alan Yuille <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
-    conference_short: Preprint
-    conference: Under review.
-    pdf: https://arxiv.org/pdf/2311.18266.pdf
-    bibtex: https://dblp.uni-trier.de/rec/journals/corr/abs-2311-18266.html?view=bibtex
-    code: https://github.com/KerryDRX/ESCORT
-    image: https://img.yliu.me/arxiv_23_2.png
 
-  - title: Continual Adversarial Defense
-    authors: Qian Wang, <strong>Yaoyao Liu</strong>, Hefei Ling, Yingwei Li, Qihao Liu, Ping Li, Jiazhong Chen, Alan Yuille, Ning Yu
-    conference_short: Preprint
-    conference: Under review.
-    pdf: https://arxiv.org/pdf/2312.09481.pdf
-    bibtex: https://bib.yliu.me/arXiv_2023_3.txt
-    code: https://github.com/cc13qq/CAD
-    image: https://img.yliu.me/arxiv_CAD.png
+  # conference papers
+
 
   - title: "Wakening Past Concepts without Past Data: Class-Incremental Learning from Online Placebos"
     authors: <strong>Yaoyao Liu</strong>, Yingying Li, Bernt Schiele, and Qianru Sun
