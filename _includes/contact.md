@@ -6,6 +6,6 @@
 <!-- <br /> -->
 <!-- <strong>Office Location:</strong> xx -->
 <br />
-<strong>Email:</strong> <email>gs534 (at) cam.,ac.uk</email>
+<strong>Email:</strong> <email>gs534 (at) cam.ac.uk</email>
 <!-- <br /> -->
 <!-- <strong>Phone:</strong> (857) 209-8688</p> -->
