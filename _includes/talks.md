@@ -3,7 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">Invited Talks</h2>
 
 
-<h4 style="margin:0 10px 0;">Conference and Workwhop Presentations.</h4>
+<h4 style="margin:0 10px 0;">Conference and Workshop Presentations.</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="http://www.asru2023.org/"><autocolor>Talk at SPARK workshop, ASRU, 2023.</autocolor></a></li>
