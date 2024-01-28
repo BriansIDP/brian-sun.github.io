@@ -6,7 +6,7 @@
 
 <ul style="margin:0 0 5px;">
   <!-- <li>Website Chair, <a href="https://bmvc2023.org/people/organisers/"><autocolor>The British Machine Vision Conference (BMVC)</autocolor></a> <a href="https://bmvc2022.org/people/organisers/"><autocolor>2022</autocolor></a>-<a href="https://bmvc2023.org/people/organisers/"><autocolor>2023</autocolor></a></li> -->
-  <li>Organising committee, <a href="https://ukspeech2023.sheffield.ac.uk/"><autocolor>UK Speech 2024</autocolor></a></li>
+  <li>Organising committee (Technical program chair), <a href="https://ukspeech2023.sheffield.ac.uk/"><autocolor>UK Speech 2024</autocolor></a></li>
 </ul>
 
 <!-- <h4 style="margin:0 10px 0;">Area Chairs</h4>
