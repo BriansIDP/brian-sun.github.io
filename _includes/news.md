@@ -4,7 +4,7 @@
 
 
 <ul>
-<li><strong>[Jan. 2024] Our paper 'SALMONN: Towards Generic Hearing Abilities for Large Language Models' has been accepted at <a href="https://iclr.cc/">ICLR 2024</a>, see you in Vienna! </strong>.</li>
+<li><strong>[Jan. 2024] </strong>Our paper 'SALMONN: Towards Generic Hearing Abilities for Large Language Models' has been accepted at <a href="https://iclr.cc/">ICLR 2024</a>, see you in Vienna!</li>
 <li><strong>[Jan. 2024] </strong>I have been awarded a <a href="https://www.trin.cam.ac.uk/fellows/junior-research-fellowships/">Junior Research Fellowship</a> at Trinity College, University of Cambridge starting from October 2024.</li>
 <li><strong>[Jan. 2024] </strong>I will be lecturing MPhil course <a href="https://www.mlmi.eng.cam.ac.uk/mlmi-14-spoken-language-generation-processing-and-recognition">MLMI14 "Advanced Speech Recognition"</a> at the Department of Engineering, University of Cambridge.</li>
 <!-- <li><strong>[Oct. 2023]</strong> I gave a talk on continual learning at <a href="https://bair.berkeley.edu/">BAIR, UC Berkeley</a>. </li>
