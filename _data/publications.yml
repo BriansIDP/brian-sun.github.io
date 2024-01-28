@@ -41,10 +41,10 @@ main2:
 
   - title: "SALMONN: Towards Generic Hearing Abilities for Large Language Models"
     authors: Changli Tang, Wenyi Yu, <strong>Guangzhi Sun</strong>, Xianzhao Chen, Tian Tan, Wei Li, Lu Lu, Zejun Ma, Chao Zhang
-    conference_short: Preprint
-    conference: Under review.
+    conference_short: ICLR
+    conference: <strong>(ICLR)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2310.13289.pdf
-    code: 
+    code: https://github.com/bytedance/SALMONN
     bibtex: ./assets/bibs/salmonn.txt
     image: ./assets/teaser/salmonn.png
     notes: 
