@@ -1,6 +1,8 @@
-@article{sun2023graph,
+@article{Sun2023GraphNN,
   title={Graph Neural Networks for Contextual ASR with the Tree-Constrained Pointer Generator},
-  author={Sun, Guangzhi and Zhang, Chao and Woodland, Phil},
-  journal={arXiv preprint arXiv:2305.18824},
-  year={2023}
+  author={Guangzhi Sun and C. Zhang and Phil Woodland},
+  journal={ArXiv},
+  year={2023},
+  volume={abs/2305.18824},
+  url={https://api.semanticscholar.org/CorpusID:258968106}
 }
