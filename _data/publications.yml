@@ -2,7 +2,7 @@ main_1:
   - title: Graph Neural Networks for Contextual ASR with the Tree-Constrained Pointer Generator
     authors: <strong>Guangzhi Sun</strong>, Chao Zhang, Philip C. Woodland
     conference_short: T-ASLP
-    conference: IEEE/ACM Transactions on Audio, Speech, and Language Processing (T-ASLP)
+    conference: IEEE/ACM Transactions on Audio, Speech, and Language Processing (T-ASLP), 2024.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10502142
     bibtex: ./assets/bibs/journal1.txt
     code: 

@@ -9,7 +9,13 @@
   <li>2024.01-2024.03: MLMI14 Advanced Speech Recognition.</li>
 </ul>
 
+<h4 style="margin:0 10px 0;">MPhil Project Supervisor.</h4>
 
+<ul style="margin:0 0 5px;">
+  <li>2024.05-2024.08: Second-order Optimisation and Imbalanced Class Distribution.</li>
+  <li>2024.05-2024.08: LanGWM: Language Grounded World Model (co-supervised by <a href="https://www.toshiba.co.uk/pages/uk/">Toshiba</a> team).</li>
+  <li>2024.05-2024.08: Object Localization in 3D World with LLM (co-supervised by <a href="https://www.toshiba.co.uk/pages/uk/">Toshiba</a> team).</li>
+</ul>
 
 
 <h4 style="margin:0 10px 0;">MPhil Project Co-supervisor.</h4>
