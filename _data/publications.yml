@@ -32,8 +32,8 @@ main2:
 
   - title: "Fine-grained Audio-Visual Joint Representations for Multimodal Large Language Models"
     authors: <strong>Guangzhi Sun</strong>, Wenyi Yu, Changli Tang, Xianzhao Chen, Tian Tan, Wei Li, Lu Lu, Zejun Ma, Chao Zhang
-    conference_short: Preprint
-    conference: Under review.
+    conference_short: ICML
+    conference: <strong>(ICML)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2310.05863.pdf
     code: 
     bibtex: ./assets/bibs/favor.txt
