@@ -4,8 +4,9 @@
 
 
 <ul>
-<li><strong>[May. 2024] </strong>Our paper 'Building Better AI Agents: A Provocation on the Utilisation of Persona in LLM-based Conversational Agents' has been aacepted at <a href="https://cui.acm.org/2024/">CUI 2024</a>, see you in Luxembourg City!</li>
-<li><strong>[May. 2024] </strong>Our paper 'av-SALMONN: Speech-Enhanced Audio-Visual Large Language Models' has been aacepted at <a href="https://icml.cc/Conferences/2024">ICML 2024</a>, see you in Vienna again!</li>
+<li><strong>[Jun. 2024] </strong>We have 4 accepted at <a href="https://interspeech2024.org/">Interspeech 2024</a>.</li>
+<li><strong>[May. 2024] </strong>Our paper 'Building Better AI Agents: A Provocation on the Utilisation of Persona in LLM-based Conversational Agents' has been accepted at <a href="https://cui.acm.org/2024/">CUI 2024</a>, see you in Luxembourg City!</li>
+<li><strong>[May. 2024] </strong>Our paper 'av-SALMONN: Speech-Enhanced Audio-Visual Large Language Models' has been accepted at <a href="https://icml.cc/Conferences/2024">ICML 2024</a>, see you in Vienna again!</li>
 <li><strong>[Apr. 2024] </strong>We have 4 papers accepted at <a href="https://2024.ieeeicassp.org/">ICCASP 2024</a>.</li>
 <li><strong>[Mar. 2024] </strong>Our journal 'Graph Neural Networks for Contextual ASR with the Tree-Constrained Pointer Generator' has been officially published.</li>
 <li><strong>[Jan. 2024] </strong>Our paper 'SALMONN: Towards Generic Hearing Abilities for Large Language Models' has been accepted at <a href="https://iclr.cc/">ICLR 2024</a>, see you in Vienna!</li>
