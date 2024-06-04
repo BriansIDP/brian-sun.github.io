@@ -6,7 +6,7 @@
 
 <ul style="margin:0 0 5px;">
   <!-- <li>Website Chair, <a href="https://bmvc2023.org/people/organisers/"><autocolor>The British Machine Vision Conference (BMVC)</autocolor></a> <a href="https://bmvc2022.org/people/organisers/"><autocolor>2022</autocolor></a>-<a href="https://bmvc2023.org/people/organisers/"><autocolor>2023</autocolor></a></li> -->
-  <li>Organising committee (Technical program chair), <a href="https://ukspeech2023.sheffield.ac.uk/"><autocolor>UK Speech 2024</autocolor></a></li>
+  <li>Organising committee (Technical program chair & Session chair), <a href="https://ukspeech2023.sheffield.ac.uk/"><autocolor>UK Speech 2024</autocolor></a></li>
 </ul>
 
 <!-- <h4 style="margin:0 10px 0;">Area Chairs</h4>
@@ -37,6 +37,7 @@
   <li><a href="https://iclr.cc/Conferences/2023"><autocolor>International Conference on Learning Representations (ICLR) 2022-2023</autocolor></a></li>
   <li><a href="https://aaai.org/Conferences/AAAI-23/"><autocolor>AAAI Conference on Artificial Intelligence (AAAI) 2021-2024</autocolor></a></li>
   <li><a href="https://ijcai-23.org/"><autocolor>International Joint Conference on Artificial Intelligence (IJCAI) 2021-2023</autocolor></a></li> -->
+  <li><a href="https://neurips.cc/"><autocolor>The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS) 2024</autocolor></a></li>  
   <li><a href="https://2024.ieeeicassp.org/"><autocolor>International Conference on Acoustics, Speech, & Signal Processing (ICASSP) 2022-2024</autocolor></a></li>  
   <li><a href="https://interspeech2024.org/"><autocolor>Annual Conference of the International Speech Communication Association (INTERSPEECH) 2022-2023</autocolor></a></li>  
   <li><a href="https://2024.aclweb.org/"><autocolor>The Association for Computational Linguistics (ACL) 2023</autocolor></a></li>  
