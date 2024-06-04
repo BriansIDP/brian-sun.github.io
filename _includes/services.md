@@ -43,6 +43,7 @@
   <li><a href="https://2024.aclweb.org/"><autocolor>The Association for Computational Linguistics (ACL) 2023</autocolor></a></li>  
   <li><a href="https://2023.emnlp.org/"><autocolor>Empirical Methods in Natural Language Processing (EMNLP) 2023</autocolor></a></li>
   <li><a href="http://www.asru2023.org/"><autocolor>IEEE Automatic Speech Recognition and Understanding Workshop (ASRU) 2023</autocolor></a></li>
+  <li><a href="https://petsymposium.org/2023/"><autocolor>Privacy Enhancing Technologies Symposium (PETS) 2023</autocolor></a></li>
   <li><a href="https://2022.acmmm.org/"><autocolor>ACM International Multimedia Conference 2022</autocolor></a></li>
 </ul>
 
