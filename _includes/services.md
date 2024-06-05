@@ -37,6 +37,7 @@
   <li><a href="https://iclr.cc/Conferences/2023"><autocolor>International Conference on Learning Representations (ICLR) 2022-2023</autocolor></a></li>
   <li><a href="https://aaai.org/Conferences/AAAI-23/"><autocolor>AAAI Conference on Artificial Intelligence (AAAI) 2021-2024</autocolor></a></li>
   <li><a href="https://ijcai-23.org/"><autocolor>International Joint Conference on Artificial Intelligence (IJCAI) 2021-2023</autocolor></a></li> -->
+  <li><a href="https://icml.cc/"><autocolor>The Forty-first International Conference on Machine Learning (ICML) 2024</autocolor></a></li>  
   <li><a href="https://neurips.cc/"><autocolor>The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS) 2024</autocolor></a></li>  
   <li><a href="https://2024.ieeeicassp.org/"><autocolor>International Conference on Acoustics, Speech, & Signal Processing (ICASSP) 2022-2024</autocolor></a></li>  
   <li><a href="https://interspeech2024.org/"><autocolor>Annual Conference of the International Speech Communication Association (INTERSPEECH) 2022-2023</autocolor></a></li>  
