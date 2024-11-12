@@ -4,7 +4,7 @@
 
 
 <ul>
-<li><strong>[OCT. 2024] </strong>Our paper 'CrossCheckGPT: Universal Hallucination Ranking for Multimodal Foundation Models' has been accepted at <a href="[https://interspeech2024.org/](https://neurips.cc/virtual/2024/workshop/84739)">NeurIPS 2024 Workshop on Responsibly Building the Next Generation of Multimodal Foundational Models</a>.</li>
+<li><strong>[Oct. 2024] </strong>Our paper 'CrossCheckGPT: Universal Hallucination Ranking for Multimodal Foundation Models' has been accepted at <a href="[https://interspeech2024.org/](https://neurips.cc/virtual/2024/workshop/84739)">NeurIPS 2024 Workshop on Responsibly Building the Next Generation of Multimodal Foundational Models</a>.</li>
 <li><strong>[Oct. 2024] </strong>Our journal 'Large Language Models Surpass Human Experts in Predicting Neuroscience Results' has been accepted and published at <a href="[https://iclr.cc/](https://www.nature.com/nathumbehav/)">Nature Human Behaviour</a>.</li>
 <li><strong>[Jul. 2024] </strong>We won the Best Provocation Paper Award at CUI 2024! Many thanks and congratulations to my co-authors.</li>
 <li><strong>[Jun. 2024] </strong>We have 4 papers accepted at <a href="https://interspeech2024.org/">Interspeech 2024</a>.</li>
