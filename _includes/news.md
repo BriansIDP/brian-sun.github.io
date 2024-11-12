@@ -4,9 +4,9 @@
 
 
 <ul>
-<li><strong>[Oct. 2024] </strong>Our paper 'CrossCheckGPT: Universal Hallucination Ranking for Multimodal Foundation Models' has been accepted at <a href="[https://icml.cc/Conferences/2024](https://neurips.cc/virtual/2024/workshop/84739)">NeurIPS 2024 Workshop on Responsibly Building the Next Generation of Multimodal Foundational Models</a>.</li>
-<li><strong>[Oct. 2024] </strong>Our journal 'Large Language Models Surpass Human Experts in Predicting Neuroscience Results' has been accepted and published at <a href="[https://icml.cc/Conferences/2024](https://www.nature.com/nathumbehav/)">Nature Human Behaviour</a>.</li>
-<li><strong>[Jul. 2024] </strong>We won the Best Provocation Paper Award at CUI 2024! Many thanks and congratulations to my co-authors.</li>
+<li><strong>[Oct. 2024] </strong>Our paper 'CrossCheckGPT: Universal Hallucination Ranking for Multimodal Foundation Models' has been accepted at <a href="https://neurips.cc/virtual/2024/workshop/84739">NeurIPS 2024 Workshop on Responsibly Building the Next Generation of Multimodal Foundational Models</a>. Thank you to everyone involved in making this research possible!</li>
+<li><strong>[Oct. 2024] </strong>Our journal 'Large Language Models Surpass Human Experts in Predicting Neuroscience Results' has been accepted and published at <a href="https://www.nature.com/nathumbehav/">Nature Human Behaviour</a>. We thank our collaborators, reviewers, and the editorial team for their support and valuable feedback.</li>
+<li><strong>[Jul. 2024] </strong>We won the Best Short Paper Award at CUI 2024! Many thanks and congratulations to my co-authors.</li>
 <li><strong>[Jun. 2024] </strong>We have 4 papers accepted at <a href="https://interspeech2024.org/">Interspeech 2024</a>.</li>
 <li><strong>[May. 2024] </strong>Our paper 'Building Better AI Agents: A Provocation on the Utilisation of Persona in LLM-based Conversational Agents' has been accepted at <a href="https://cui.acm.org/2024/">CUI 2024</a>, see you in Luxembourg City!</li>
 <li><strong>[May. 2024] </strong>Our paper 'av-SALMONN: Speech-Enhanced Audio-Visual Large Language Models' has been accepted at <a href="https://icml.cc/Conferences/2024">ICML 2024</a>, see you in Vienna again!</li>
