@@ -4,6 +4,7 @@
 
 
 <ul>
+<li><strong>[Dec. 2024] </strong>We have 1 paper accepted at <a href="https://2025.ieeeicassp.org/">ICASSP 2025</a>.</li>
 <li><strong>[Oct. 2024] </strong>Our paper 'CrossCheckGPT: Universal Hallucination Ranking for Multimodal Foundation Models' has been accepted at <a href="https://neurips.cc/virtual/2024/workshop/84739">NeurIPS 2024 Workshop on Responsibly Building the Next Generation of Multimodal Foundational Models</a>. Thank you to everyone involved in making this research possible!</li>
 <li><strong>[Oct. 2024] </strong>Our journal 'Large Language Models Surpass Human Experts in Predicting Neuroscience Results' has been accepted and published at <a href="https://www.nature.com/nathumbehav/">Nature Human Behaviour</a>. We thank our collaborators, reviewers, and the editorial team for their support and valuable feedback.</li>
 <li><strong>[Jul. 2024] </strong>We won the Best Short Paper Award at CUI 2024! Many thanks and congratulations to my co-authors.</li>
