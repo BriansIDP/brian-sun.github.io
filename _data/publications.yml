@@ -30,12 +30,12 @@ main_1:
   # conference papers
 main2:
 
-  - title: "av-SALMONN: Speech-Enhanced Audio-Visual Large Language Models"
+  - title: "video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models"
     authors: <strong>Guangzhi Sun</strong>, Wenyi Yu, Changli Tang, Xianzhao Chen, Tian Tan, Wei Li, Lu Lu, Zejun Ma, Chao Zhang
     conference_short: ICML
     conference: <strong>(ICML)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2310.05863.pdf
-    code: 
+    pdf: https://arxiv.org/pdf/2406.15704v1
+    code: https://github.com/bytedance/SALMONN/tree/main/video_salmonn
     bibtex: ./assets/bibs/favor.txt
     image: ./assets/teaser/favor.png
 
