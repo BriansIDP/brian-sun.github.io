@@ -15,8 +15,8 @@
 <ul style="margin:0 0 5px;">
   <li><a href="https://icml.cc/"><autocolor>The Forty-first International Conference on Machine Learning (ICML) 2024, 2025</autocolor></a></li>  
   <li><a href="https://neurips.cc/"><autocolor>The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS) 2024</autocolor></a></li>  
-  <li><a href="https://2024.ieeeicassp.org/"><autocolor>International Conference on Acoustics, Speech, & Signal Processing (ICASSP) 2022-2024</autocolor></a></li>  
-  <li><a href="https://interspeech2024.org/"><autocolor>Annual Conference of the International Speech Communication Association (INTERSPEECH) 2022-2023</autocolor></a></li>  
+  <li><a href="https://2024.ieeeicassp.org/"><autocolor>International Conference on Acoustics, Speech, & Signal Processing (ICASSP) 2022-2025</autocolor></a></li>  
+  <li><a href="https://interspeech2024.org/"><autocolor>Annual Conference of the International Speech Communication Association (INTERSPEECH) 2022-2025</autocolor></a></li>  
   <li><a href="https://2024.aclweb.org/"><autocolor>The Association for Computational Linguistics (ACL) 2023, 2025</autocolor></a></li>  
   <li><a href="https://2023.emnlp.org/"><autocolor>Empirical Methods in Natural Language Processing (EMNLP) 2023</autocolor></a></li>
   <li><a href="http://www.asru2023.org/"><autocolor>IEEE Automatic Speech Recognition and Understanding Workshop (ASRU) 2023</autocolor></a></li>
