@@ -4,6 +4,7 @@
 
 
 <ul>
+<li><strong>[May. 2025] </strong>We have 3 paper</a> accepted at <a href="https://icml.cc">ICML 2025</a>. See you in Vancouver!</li>
 <li><strong>[Jan. 2025] </strong>We have <a href="https://arxiv.org/abs/2406.03199">1 paper</a> accepted at ICLR 2025, and <a href="https://arxiv.org/abs/2406.00522">1 paper</a> accepted at NAACL 2025.</li>
 <li><strong>[Dec. 2024] </strong>We have  <a href="https://arxiv.org/abs/2409.16644">1 paper</a> accepted at <a href="https://2025.ieeeicassp.org/">ICASSP 2025</a>.</li>
 <li><strong>[Oct. 2024] </strong>Our paper 'CrossCheckGPT: Universal Hallucination Ranking for Multimodal Foundation Models' has been accepted at <a href="https://neurips.cc/virtual/2024/workshop/84739">NeurIPS 2024 Workshop on Responsibly Building the Next Generation of Multimodal Foundational Models</a>. Thank you to everyone involved in making this research possible!</li>
@@ -12,7 +13,7 @@
 <li><strong>[Jun. 2024] </strong>We have 4 papers accepted at <a href="https://interspeech2024.org/">Interspeech 2024</a>.</li>
 
 
-<li> <a href="#" onclick="toggleVis(this); return false;">Show more</a> </li>
+<li> <a href="#" onclick="toggleVis(this); return true;">Show more</a> </li>
 <div id="newsmore" style="display:none"> 
   <li><strong>[May. 2024] </strong>Our paper 'Building Better AI Agents: A Provocation on the Utilisation of Persona in LLM-based Conversational Agents' has been accepted at <a href="https://cui.acm.org/2024/">CUI 2024</a>, see you in Luxembourg City!</li>
 <li><strong>[May. 2024] </strong>Our paper 'av-SALMONN: Speech-Enhanced Audio-Visual Large Language Models' has been accepted at <a href="https://icml.cc/Conferences/2024">ICML 2024</a>, see you in Vienna again!</li>
