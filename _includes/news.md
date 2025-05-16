@@ -4,7 +4,8 @@
 
 
 <ul>
-<li><strong>[May. 2025] </strong>We have 3 papers accepted at <a href="https://icml.cc">ICML 2025</a>. See you in Vancouver!</li>
+<li><strong>[May. 2025] </strong>Our paper <a href="https://arxiv.org/abs/2410.10215">SkillAggregation</a> has been accepted at <a href="https://2025.aclweb.org/">ACL 2025 main conference</a>. Many thanks and congratulations to my co-authors!</li>
+<li><strong>[May. 2025] </strong>Our papers <a href="https://arxiv.org/abs/2502.11775">video-SALMONN-o1</a>, <a href="https://arxiv.org/abs/2501.14940">CASE-Bench</a>, and <a href="https://arxiv.org/abs/2503.13956">F-16</a> have been accepted at <a href="https://icml.cc">ICML 2025</a>. See you in Vancouver!</li>
 <li><strong>[Jan. 2025] </strong>We have <a href="https://arxiv.org/abs/2406.03199">1 paper</a> accepted at ICLR 2025, and <a href="https://arxiv.org/abs/2406.00522">1 paper</a> accepted at NAACL 2025.</li>
 <li><strong>[Dec. 2024] </strong>We have  <a href="https://arxiv.org/abs/2409.16644">1 paper</a> accepted at <a href="https://2025.ieeeicassp.org/">ICASSP 2025</a>.</li>
 <li><strong>[Oct. 2024] </strong>Our paper 'CrossCheckGPT: Universal Hallucination Ranking for Multimodal Foundation Models' has been accepted at <a href="https://neurips.cc/virtual/2024/workshop/84739">NeurIPS 2024 Workshop on Responsibly Building the Next Generation of Multimodal Foundational Models</a>. Thank you to everyone involved in making this research possible!</li>
