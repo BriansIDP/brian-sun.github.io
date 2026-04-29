@@ -4,6 +4,7 @@
 
 
 <ul>
+<li><strong>[Apr. 2026] </strong>Our paper <a href="https://arxiv.org/pdf/2512.06380">Protecting Bystander Privacy via Selective Hearing in Audio LLMs</a> has been accepted at <a href="https://2026.aclweb.org/">ACL 2026 main conference</a>!</li>
 <li><strong>[Aug. 2025] </strong>Our paper <a href="https://arxiv.org/pdf/2505.02884">Unlearning vs. Obfuscation: Are We Truly Removing Knowledge?</a> has been accepted at <a href="https://2025.emnlp.org/">EMNLP 2025 main conference</a>. See you in Suzhou!</li>
 <li><strong>[May. 2025] </strong>Our paper <a href="https://arxiv.org/abs/2410.10215">SkillAggregation</a> has been accepted at <a href="https://2025.aclweb.org/">ACL 2025 main conference</a>. Many thanks and congratulations to my co-authors!</li>
 <li><strong>[May. 2025] </strong>Our papers <a href="https://arxiv.org/abs/2502.11775">video-SALMONN-o1</a>, <a href="https://arxiv.org/abs/2501.14940">CASE-Bench</a>, and <a href="https://arxiv.org/abs/2503.13956">F-16</a> have been accepted at <a href="https://icml.cc">ICML 2025</a>. See you in Vancouver!</li>
