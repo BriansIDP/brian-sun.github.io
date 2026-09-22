@@ -31,5 +31,5 @@
 </ul>
 
 <div style="text-align: center; margin-top: -10px;">
-  <small><a href="#" onclick="var e=document.getElementById('newsmore'); var t=document.getElementById('news-toggle-text'); var show=(e.style.display==='none'); e.style.display=show?'block':'none'; t.textContent=show?'Show less ▲':'Show more ▼'; return false;"><autocolor id="news-toggle-text">Show more ▼</autocolor></a></small>
+  <a href="#" style="color: #002D72;" onclick="var e=document.getElementById('newsmore'); var t=document.getElementById('news-toggle-text'); var show=(e.style.display==='none'); e.style.display=show?'block':'none'; t.textContent=show?'Show less ▲':'Show more ▼'; return false;"><span id="news-toggle-text">Show more ▼</span></a>
 </div>
