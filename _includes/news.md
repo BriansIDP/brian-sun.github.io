@@ -8,21 +8,17 @@
 <li><strong>[Apr. 2026] </strong>We have 3 papers accepted at <a href="https://icml.cc/Conferences/2026">ICML 2026</a>, check them here: <a href="https://icml.cc/virtual/2026/poster/61140">video-SALMONN S</a>, <a href="https://icml.cc/virtual/2026/poster/64737">SALMONN-Guard</a>, <a href="https://icml.cc/virtual/2026/poster/64228">LLM-as-a-jury for Comparative Assessment</a>. Many thanks and congratulations to my co-authors, and see you in Seoul! </li>
 <li><strong>[Apr. 2026] </strong>Our paper <a href="https://arxiv.org/pdf/2512.06380">Protecting Bystander Privacy via Selective Hearing in Audio LLMs</a> has been accepted at <a href="https://2026.aclweb.org/">ACL 2026 main conference</a>!</li>
 
-<li> <a href="#" onclick="toggle_vis('newsmore'); return false;">Show more</a> </li>
 <div id="newsmore" style="display:none"> 
-  
-<li><strong>[Aug. 2025] </strong>Our paper <a href="https://arxiv.org/pdf/2505.02884">Unlearning vs. Obfuscation: Are We Truly Removing Knowledge?</a> has been accepted at <a href="https://2025.emnlp.org/">EMNLP 2025 main conference</a>. See you in Suzhou!</li>
-<li><strong>[May. 2025] </strong>Our paper <a href="https://arxiv.org/abs/2410.10215">SkillAggregation</a> has been accepted at <a href="https://2025.aclweb.org/">ACL 2025 main conference</a>. Many thanks and congratulations to my co-authors!</li>
-<li><strong>[May. 2025] </strong>Our papers <a href="https://arxiv.org/abs/2502.11775">video-SALMONN-o1</a>, <a href="https://arxiv.org/abs/2501.14940">CASE-Bench</a>, and <a href="https://arxiv.org/abs/2503.13956">F-16</a> have been accepted at <a href="https://icml.cc">ICML 2025</a>. See you in Vancouver!</li>
-<li><strong>[Jan. 2025] </strong>We have <a href="https://arxiv.org/abs/2406.03199">1 paper</a> accepted at ICLR 2025, and <a href="https://arxiv.org/abs/2406.00522">1 paper</a> accepted at NAACL 2025.</li>
-<li><strong>[Dec. 2024] </strong>We have  <a href="https://arxiv.org/abs/2409.16644">1 paper</a> accepted at <a href="https://2025.ieeeicassp.org/">ICASSP 2025</a>.</li>
-<li><strong>[Oct. 2024] </strong>Our paper 'CrossCheckGPT: Universal Hallucination Ranking for Multimodal Foundation Models' has been accepted at <a href="https://neurips.cc/virtual/2024/workshop/84739">NeurIPS 2024 Workshop on Responsibly Building the Next Generation of Multimodal Foundational Models</a>. Thank you to everyone involved in making this research possible!</li>
-<li><strong>[Oct. 2024] </strong>Our journal 'Large Language Models Surpass Human Experts in Predicting Neuroscience Results' has been accepted and published at <a href="https://www.nature.com/nathumbehav/">Nature Human Behaviour</a>. We thank our collaborators, reviewers, and the editorial team for their support and valuable feedback.</li>
-<li><strong>[Jul. 2024] </strong>We won the Best Short Paper Award at CUI 2024! Many thanks and congratulations to my co-authors.</li>
-<li><strong>[Jun. 2024] </strong>We have 4 papers accepted at <a href="https://interspeech2024.org/">Interspeech 2024</a>.</li>
-
-
-<li><strong>[May. 2024] </strong>Our paper 'Building Better AI Agents: A Provocation on the Utilisation of Persona in LLM-based Conversational Agents' has been accepted at <a href="https://cui.acm.org/2024/">CUI 2024</a>, see you in Luxembourg City!</li>
+  <li><strong>[Aug. 2025] </strong>Our paper <a href="https://arxiv.org/pdf/2505.02884">Unlearning vs. Obfuscation: Are We Truly Removing Knowledge?</a> has been accepted at <a href="https://2025.emnlp.org/">EMNLP 2025 main conference</a>. See you in Suzhou!</li>
+  <li><strong>[May. 2025] </strong>Our paper <a href="https://arxiv.org/abs/2410.10215">SkillAggregation</a> has been accepted at <a href="https://2025.aclweb.org/">ACL 2025 main conference</a>. Many thanks and congratulations to my co-authors!</li>
+  <li><strong>[May. 2025] </strong>Our papers <a href="https://arxiv.org/abs/2502.11775">video-SALMONN-o1</a>, <a href="https://arxiv.org/abs/2501.14940">CASE-Bench</a>, and <a href="https://arxiv.org/abs/2503.13956">F-16</a> have been accepted at <a href="https://icml.cc">ICML 2025</a>. See you in Vancouver!</li>
+  <li><strong>[Jan. 2025] </strong>We have <a href="https://arxiv.org/abs/2406.03199">1 paper</a> accepted at ICLR 2025, and <a href="https://arxiv.org/abs/2406.00522">1 paper</a> accepted at NAACL 2025.</li>
+  <li><strong>[Dec. 2024] </strong>We have  <a href="https://arxiv.org/abs/2409.16644">1 paper</a> accepted at <a href="https://2025.ieeeicassp.org/">ICASSP 2025</a>.</li>
+  <li><strong>[Oct. 2024] </strong>Our paper 'CrossCheckGPT: Universal Hallucination Ranking for Multimodal Foundation Models' has been accepted at <a href="https://neurips.cc/virtual/2024/workshop/84739">NeurIPS 2024 Workshop on Responsibly Building the Next Generation of Multimodal Foundational Models</a>. Thank you to everyone involved in making this research possible!</li>
+  <li><strong>[Oct. 2024] </strong>Our journal 'Large Language Models Surpass Human Experts in Predicting Neuroscience Results' has been accepted and published at <a href="https://www.nature.com/nathumbehav/">Nature Human Behaviour</a>. We thank our collaborators, reviewers, and the editorial team for their support and valuable feedback.</li>
+  <li><strong>[Jul. 2024] </strong>We won the Best Short Paper Award at CUI 2024! Many thanks and congratulations to my co-authors.</li>
+  <li><strong>[Jun. 2024] </strong>We have 4 papers accepted at <a href="https://interspeech2024.org/">Interspeech 2024</a>.</li>
+  <li><strong>[May. 2024] </strong>Our paper 'Building Better AI Agents: A Provocation on the Utilisation of Persona in LLM-based Conversational Agents' has been accepted at <a href="https://cui.acm.org/2024/">CUI 2024</a>, see you in Luxembourg City!</li>
 <li><strong>[May. 2024] </strong>Our paper 'av-SALMONN: Speech-Enhanced Audio-Visual Large Language Models' has been accepted at <a href="https://icml.cc/Conferences/2024">ICML 2024</a>, see you in Vienna again!</li>
 <li><strong>[Apr. 2024] </strong>We have 4 papers accepted at <a href="https://2024.ieeeicassp.org/">ICASSP 2024</a>.</li>
 <li><strong>[Mar. 2024] </strong>Our journal 'Graph Neural Networks for Contextual ASR with the Tree-Constrained Pointer Generator' has been officially published.</li>
@@ -33,3 +29,7 @@
 </div>
 
 </ul>
+
+<div style="text-align: center; margin-top: -10px;">
+  <small><a href="#" onclick="var e=document.getElementById('newsmore'); var t=document.getElementById('news-toggle-text'); var show=(e.style.display==='none'); e.style.display=show?'block':'none'; t.textContent=show?'Show less ▲':'Show more ▼'; return false;"><autocolor id="news-toggle-text">Show more ▼</autocolor></a></small>
+</div>
