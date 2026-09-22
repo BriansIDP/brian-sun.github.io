@@ -7,6 +7,10 @@
 <li><strong>[Jan. 2026] </strong>We have 5 papers accepted at <a href="https://2026.ieeeicassp.org/">ICASSP 2026</a>, check them here: <a href="https://ieeexplore.ieee.org/abstract/document/11464660">(1)</a>, <a href="https://ieeexplore.ieee.org/abstract/document/11460666">(2)</a>, <a href="https://ieeexplore.ieee.org/abstract/document/11464218">(3)</a>, <a href="https://ieeexplore.ieee.org/abstract/document/11463321">(4)</a>, <a href="https://arxiv.org/abs/2601.18393">(5)</a>.</li>
 <li><strong>[Apr. 2026] </strong>We have 3 papers accepted at <a href="https://icml.cc/Conferences/2026">ICML 2026</a>, check them here: <a href="https://icml.cc/virtual/2026/poster/61140">video-SALMONN S</a>, <a href="https://icml.cc/virtual/2026/poster/64737">SALMONN-Guard</a>, <a href="https://icml.cc/virtual/2026/poster/64228">LLM-as-a-jury for Comparative Assessment</a>. Many thanks and congratulations to my co-authors, and see you in Seoul! </li>
 <li><strong>[Apr. 2026] </strong>Our paper <a href="https://arxiv.org/pdf/2512.06380">Protecting Bystander Privacy via Selective Hearing in Audio LLMs</a> has been accepted at <a href="https://2026.aclweb.org/">ACL 2026 main conference</a>!</li>
+
+<li> <a href="#" onclick="toggle_vis('newsmore'); return false;">Show more</a> </li>
+<div id="newsmore" style="display:none"> 
+  
 <li><strong>[Aug. 2025] </strong>Our paper <a href="https://arxiv.org/pdf/2505.02884">Unlearning vs. Obfuscation: Are We Truly Removing Knowledge?</a> has been accepted at <a href="https://2025.emnlp.org/">EMNLP 2025 main conference</a>. See you in Suzhou!</li>
 <li><strong>[May. 2025] </strong>Our paper <a href="https://arxiv.org/abs/2410.10215">SkillAggregation</a> has been accepted at <a href="https://2025.aclweb.org/">ACL 2025 main conference</a>. Many thanks and congratulations to my co-authors!</li>
 <li><strong>[May. 2025] </strong>Our papers <a href="https://arxiv.org/abs/2502.11775">video-SALMONN-o1</a>, <a href="https://arxiv.org/abs/2501.14940">CASE-Bench</a>, and <a href="https://arxiv.org/abs/2503.13956">F-16</a> have been accepted at <a href="https://icml.cc">ICML 2025</a>. See you in Vancouver!</li>
@@ -18,10 +22,7 @@
 <li><strong>[Jun. 2024] </strong>We have 4 papers accepted at <a href="https://interspeech2024.org/">Interspeech 2024</a>.</li>
 
 
-
-<li> <a href="#" onclick="toggle_vis('newsmore'); return false;">Show more</a> </li>
-<div id="newsmore" style="display:none"> 
-  <li><strong>[May. 2024] </strong>Our paper 'Building Better AI Agents: A Provocation on the Utilisation of Persona in LLM-based Conversational Agents' has been accepted at <a href="https://cui.acm.org/2024/">CUI 2024</a>, see you in Luxembourg City!</li>
+<li><strong>[May. 2024] </strong>Our paper 'Building Better AI Agents: A Provocation on the Utilisation of Persona in LLM-based Conversational Agents' has been accepted at <a href="https://cui.acm.org/2024/">CUI 2024</a>, see you in Luxembourg City!</li>
 <li><strong>[May. 2024] </strong>Our paper 'av-SALMONN: Speech-Enhanced Audio-Visual Large Language Models' has been accepted at <a href="https://icml.cc/Conferences/2024">ICML 2024</a>, see you in Vienna again!</li>
 <li><strong>[Apr. 2024] </strong>We have 4 papers accepted at <a href="https://2024.ieeeicassp.org/">ICASSP 2024</a>.</li>
 <li><strong>[Mar. 2024] </strong>Our journal 'Graph Neural Networks for Contextual ASR with the Tree-Constrained Pointer Generator' has been officially published.</li>
