@@ -29,6 +29,24 @@ main_1:
 
   # conference papers
 main2:
+  - title: "video-SALMONN S: Memory-Enhanced Streaming Audio-Visual LLM"
+    authors: <strong>Guangzhi Sun</strong>, Yixuan Li, Xiaodong Wu, Yudong Yang, Wei Li, Zejun Ma, Chao Zhang
+    conference_short: ICML
+    conference: <strong>(ICML)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2510.11129
+    code: https://github.com/bytedance/SALMONN/tree/video-salmonn-S
+    bibtex: ./assets/bibs/favor.txt
+    image: ./assets/teaser/favor.png
+
+    - title: "Speech-Audio Compositional Attacks on Multimodal LLMs and Their Defense with SALMONN-Guard"
+    authors: Yudong Yang, Xuezhen Zhang, Zhifeng Han, Siyin Wang, Jimin Zhuang, Zengrui Jin, Jing Shao, <strong>Guangzhi Sun</strong>, Chao Zhang
+    conference_short: ICML
+    conference: <strong>(ICML)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2511.10222
+    code: https://huggingface.co/datasets/tsinghua-ee/SACRED-Bench
+    bibtex: ./assets/bibs/favor.txt
+    image: ./assets/teaser/favor.png
+
 
   - title: "video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models"
     authors: <strong>Guangzhi Sun</strong>, Wenyi Yu, Changli Tang, Xianzhao Chen, Tian Tan, Wei Li, Lu Lu, Zejun Ma, Chao Zhang
