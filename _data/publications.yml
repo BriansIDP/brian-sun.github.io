@@ -35,7 +35,7 @@ main2:
     conference: <strong>(ICML)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2510.11129
     code: https://github.com/bytedance/SALMONN/tree/video-salmonn-S
-    bibtex: ./assets/bibs/favor.txt
+    bibtex: 
     image: ./assets/teaser/videosamlmons.png
 
     - title: "Speech-Audio Compositional Attacks on Multimodal LLMs and Their Defense with SALMONN-Guard"
@@ -44,7 +44,7 @@ main2:
     conference: <strong>(ICML)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2511.10222
     code: https://huggingface.co/datasets/tsinghua-ee/SACRED-Bench
-    bibtex: ./assets/bibs/favor.txt
+    bibtex: 
     image: ./assets/teaser/guardsalmonn.png
 
 
