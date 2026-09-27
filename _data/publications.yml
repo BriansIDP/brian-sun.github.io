@@ -36,7 +36,7 @@ main2:
     pdf: https://arxiv.org/pdf/2510.11129
     code: https://github.com/bytedance/SALMONN/tree/video-salmonn-S
     bibtex: ./assets/bibs/favor.txt
-    image: ./assets/teaser/favor.png
+    image: ./assets/teaser/videosamlmons.png
 
     - title: "Speech-Audio Compositional Attacks on Multimodal LLMs and Their Defense with SALMONN-Guard"
     authors: Yudong Yang, Xuezhen Zhang, Zhifeng Han, Siyin Wang, Jimin Zhuang, Zengrui Jin, Jing Shao, <strong>Guangzhi Sun</strong>, Chao Zhang
@@ -45,7 +45,7 @@ main2:
     pdf: https://arxiv.org/pdf/2511.10222
     code: https://huggingface.co/datasets/tsinghua-ee/SACRED-Bench
     bibtex: ./assets/bibs/favor.txt
-    image: ./assets/teaser/favor.png
+    image: ./assets/teaser/guardsalmonn.png
 
 
   - title: "video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models"
